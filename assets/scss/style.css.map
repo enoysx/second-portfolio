@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.scss",
+        "base/base.scss",
+        "theme/theme.scss",
+        "layout/layout.scss",
+        "config/config.scss",
+        "component/profile.scss",
+        "component/button.scss",
+        "component/filter.scss",
+        "component/footer.scss",
+        "component/breakpoint.scss",
+        "component/scroll.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

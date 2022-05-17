@@ -1,0 +1,20 @@
+// Profile
+.profile {
+    position: relative;
+    padding-top: 3.5rem;
+    &container {
+        row-gap: 2rem;
+    }
+    &__data {
+        display: grid;
+        text-align: center;
+    }
+    &__perfil {
+        & img {
+            width: 75px;
+        }
+        width: 100px;
+        height: 100px;
+        background: linear-gradient();
+    }
+}
